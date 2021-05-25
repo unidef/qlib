@@ -1,0 +1,6 @@
+;; Object quantum
+;; EDE Project Files are auto generated: Do Not Edit
+(ede-proj-project "quantum"
+  :file "Project.ede"
+  :name "quantum"
+  :targets nil)
